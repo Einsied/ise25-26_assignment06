@@ -119,7 +119,7 @@ public class UserController {
     }
 
     @Operation(
-            summary = "Create a new POS.",
+            summary = "Create a new User.",
             responses = {
                     @ApiResponse(
                             responseCode = "201",
